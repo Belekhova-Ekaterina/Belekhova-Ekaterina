@@ -6,14 +6,10 @@
 
 Я внимательный к деталям начинающий специалист QA. Основной домен - тестирование веб-приложений (front + back). Так же умею тестировать мобильные приложения.
 
-- 📫 Как связаться со мной:
+📫 Как связаться со мной:
  <div id="badges">
-    <a href="https://t.me/belekhovaekaterina13" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-    <a href="mailto:belehova.katya@gmail.com" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="50" height="40" alt="gmail" />
-    </a>
+    <a href="https://t.me/belekhovaekaterina13" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram"/></a>
+    <a href="mailto:belehova.katya@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="50" height="40" alt="gmail"/></a>
   </div>
 
 ---
